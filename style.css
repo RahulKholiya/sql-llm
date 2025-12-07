@@ -1,0 +1,60 @@
+/* src/style.css */
+
+/* Set background color */
+body {
+    background-color: #000000;
+}
+
+/* Main app container */
+.stApp {
+    background-color: #000000;
+}
+
+/* Title */
+h1 {
+    color: #1E3A8A; /* Dark Blue */
+}
+
+/* Headers */
+h2, h3 {
+    color: #1D4ED8; /* Medium Blue */
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #2563EB; /* Bright Blue */
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 20px;
+}
+.stButton > button:hover {
+    background-color: #1D4ED8;
+    color: rgb(0, 0, 0);
+}
+
+/* Text Input */
+.stTextInput > div > div > input {
+    background-color: #000000;
+    border-radius: 8px;
+}
+
+/* Expander */
+.stExpander {
+    background-color: #000000;
+    border-radius: 8px;
+}
+
+/* Success Message */
+.stSuccess {
+    background-color: #000000;
+    color: #065F46;
+    border-radius: 8px;
+}
+
+/* Error Message */
+.stError {
+    background-color: #000000;
+    color: #991B1B;
+    border-radius: 8px;
+}

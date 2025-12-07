@@ -1,0 +1,27 @@
+
+#texts 
+
+Simple: "How many animals are in the database?"
+
+Filtered: "List all the mammals."
+
+Filtered: "Which animals are carnivores?"
+
+Advanced (JOIN): "What animals live in the African Savanna?"
+
+Advanced (JOIN): "Which animals live in a Polar climate?"
+
+Very Advanced (JOIN + Filter): "Show me all the mammals that live in the Arctic Tundra."
+
+
+How many students are there?
+
+Show me all the students in the 'Data Science' class.
+
+What is the average marks for all students?
+
+Who has the highest marks?
+
+List all the course names and their instructors.
+
+How many students are in section A?
